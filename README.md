@@ -2,7 +2,7 @@
 
 ###  NAME :  GURURAGAV PONJEEVITH
 ###  ROLL NO : 212223220027
-###  DEPARTMENT : B.E / CSE 
+###  DEPARTMENT : IT
 ### Aim:
 To Interface a IR Sensor to digital port of iot development board  and generate an interrupt and visualize on the serial monitor 
 
